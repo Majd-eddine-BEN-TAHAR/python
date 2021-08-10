@@ -1,9 +1,11 @@
 # all data types in python are objects, like JavaScript
 
-print(type(19.3))
-
-print(type(  [1, 3, 45]  )) # list => array in JS
-
-print(type(  (1, 3, 45 )  )) # tuple 
-
-print(type(  { "one" : 1, "two" : 2 }  )) # dict ( dictionary ) => Object in JS  
+# Syntax => [Variable Name] = [Value]
+#
+# Name Convention and Rules
+# [1] Can Start With (a-z A-Z) Or Underscore
+# [2] Can Include (0-9) Or Underscore
+# [3] Cannot start With Num Or Special Characters
+# [4] Cannot Include Special Characters
+# [5] Name is Not Like name [ Case Sensitive ]
+# --------------------------------------
